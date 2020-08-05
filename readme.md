@@ -9,6 +9,7 @@
 - <img align="left" alt="Visual Studio Code" height="25px" src="https://loyalty360.org/getattachment/f1f49227-edf2-4e89-aa61-5113b78a37c8/image" />: Helping to fight COVID with the Canadian Red Cross.
 - <img align="left" alt="Visual Studio Code" height="25px" src="https://t3.ftcdn.net/jpg/01/02/58/40/240_F_102584060_8AbaQWM7j6UdxAJLBZ6aja3dcVK6ElxC.jpg" />: Continue to learn.
 
+---------
 
 
 #### What I use as a developer:
