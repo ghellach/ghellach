@@ -5,7 +5,12 @@
 -------
 
 #### Current projects : 
-- 🔐 An authentication API created to make developers lives easier. (https://github.com/ghellach/AuthDashCore)
+- 🔐 An authentication API created to make developers lives easier. (<a href="https://github.com/ghellach/AuthDashCore" target="_blank">https://github.com/ghellach/AuthDashCore</a>)
+- 🏥 Helping to fight COVID with the Canadian Red Cross.
+- 📕 Continue to learn.
+
+#### Current projects : 
+- 🔐 An authentication API created to make developers lives easier. (<a href="https://github.com/ghellach/AuthDashCore" target="_blank">https://github.com/ghellach/AuthDashCore</a>)
 - 🏥 Helping to fight COVID with the Canadian Red Cross.
 - 📕 Continue to learn.
 
