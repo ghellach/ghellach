@@ -14,11 +14,6 @@
 - 🏥 Helping to fight COVID with the Canadian Red Cross.
 - 📕 Continue to learn.
 
----------
-- <img align="left" alt="Visual Studio Code" height="25px" src="https://camo.githubusercontent.com/cf83d7f554b30aa75eaab5f40fe959b50eb27de8/68747470733a2f2f6163687261666768656c6c6163682e63612f696d616765732f70726f6a656374732f706e672e706e67" />: An authentication API created to make developers lives easier.
-- <img align="left" alt="Visual Studio Code" height="25px" src="https://loyalty360.org/getattachment/f1f49227-edf2-4e89-aa61-5113b78a37c8/image" />: Helping to fight COVID with the Canadian Red Cross.
-- <img align="left" alt="Visual Studio Code" height="25px" src="https://t3.ftcdn.net/jpg/01/02/58/40/240_F_102584060_8AbaQWM7j6UdxAJLBZ6aja3dcVK6ElxC.jpg" />: Continue to learn.
-
 #### What I use as a developer:
 
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
