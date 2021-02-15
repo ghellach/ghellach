@@ -1,6 +1,6 @@
 ## 👋 Hi there ! I'm Achraf Ghellach
 
-#### I'm a student 🎓 , a developer 🖥 , and a someone 🤖.
+#### I'm a student 🎓 and a developer 🖥 .
 
 -------
 
