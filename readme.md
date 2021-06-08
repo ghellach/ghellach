@@ -27,8 +27,8 @@
 #### Contact me:
 - [<img src="https://t4.ftcdn.net/jpg/01/27/02/81/240_F_127028116_shduna3P1xEm11PgLmaDP1NChtCfSwLB.jpg" width="25px" />](https://www.achrafghellach.ca) www.achrafghellach.ca
 - [<img src="https://image.flaticon.com/icons/svg/174/174848.svg" width="25px" />](https://facebook.com/ghellach) /ghellach
-- [<img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px" />](https://twitter.com/overcomputed) /AchrafGhellach
-- [<img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="25px" />](https://instagram.com/overcomputed) /aghellach
+- [<img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px" />](https://twitter.com/overcomputed) /overcomputed
+- [<img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="25px" />](https://instagram.com/overcomputed) /overcomputed
 
 
 
